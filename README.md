@@ -13,5 +13,5 @@
 <p align="center"> 
 <a href="www.linkedin.com/in/cervantesjr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/cervantesjr/" height="30" width="30" /></a>
 <a href="https://fb.com/riddlercervantes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="riddlercervantes" height="30" width="30" /></a>
-<a href="https://instagram.com/riddler_cervantes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riddler_cervantes" height="30" width="30" /></a>
+<a href="https://instagram.com/riddler_cervantes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riddler_cervantes" height="30" width="30" /></a> 
 </p>
